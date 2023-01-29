@@ -8,7 +8,7 @@ This project offers an introduction to the TDD methodology. The goal is to use P
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-## Tests :check_mark:
+## Tests :
 
 * [tests](./tests): Folder of test files. Includes both ALX-provided ones as well as the following eight independently-developed:
   * [0-add_integer.txt](./tests/0-add_integer.txt)
@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
   * [100-matrix_mul.txt](./tests/100-matrix_mul.txt)
   * [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt)
 
-## Function Prototypes :disk:
+## Function Prototypes :
 
 Prototypes for functions written in this project:
 
