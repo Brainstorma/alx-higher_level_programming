@@ -47,7 +47,7 @@ In order to follow this project, you need to have a working Python environment w
 Clone this repository to your local machine: 
 
 ```
-git clone https://github.com/brainstorma/REPO.git
+git clone https://github.com/brainstorma/alx-higher_level_programming/0x07-python-test_driven_development.git
 ```
 
 Once you have the source code, enter the project directory and run the setup script:
