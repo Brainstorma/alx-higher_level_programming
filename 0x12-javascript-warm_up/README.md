@@ -9,23 +9,23 @@ The repository contains a total of 18 tasks to help you master JavaScript basics
 | **No.** | **Task** | **Description** |
 |---------|----------|-----------------|
 |0| [0-javascript_is_amazing](./0-javascript_is_amazing.js/) | Script that prints “JavaScript is amazing” to the console. |
-|1| [1-multi_languages](./1-multi_languages/) | Script that prints 3 lines to the console in different languages. |
-|2| [2-arguments](./2-arguments/) | Script that prints a message depending on the number of arguments passed. |
-|3| [3-value_argument](./3-value_argument/) | Script that prints the first argument passed to it. |
-|4| [4-concat](./4-concat/) | Script that prints two arguments passed to it, in the following format: “ is ”. |
-|5| [5-to_integer](./5-to_integer/) | Script that prints “My number: ” if the first argument can be converted to an integer. |
-|6| [6-multi_languages_loop](./6-multi_languages_loop/) | Script that prints 3 lines to the console in different languages using a loop. |
-|7| [7-multi_c](./7-multi_c/) | JavaScript script that prints x times “C is fun”. |
-|8| [8-square](./8-square/) | Script that prints a square using the `console.log()` function. |
-|9| [9-add](./9-add/) | Function that adds two numbers and returns the result. |
-|10| [10-factorial](./10-factorial/) | Function that computes and returns the factorial of a given number. |
-|11| [11-second_biggest](./11-second_biggest/) | Script that searches the second biggest integer in the list of arguments. |
-|12| [12-object](./12-object/) | Update an object with new attributes. |
+|1| [1-multi_languages](./1-multi_languages.js/) | Script that prints 3 lines to the console in different languages. |
+|2| [2-arguments](./2-arguments.js/) | Script that prints a message depending on the number of arguments passed. |
+|3| [3-value_argument](./3-value_argument.js/) | Script that prints the first argument passed to it. |
+|4| [4-concat](./4-concat.js/) | Script that prints two arguments passed to it, in the following format: “ is ”. |
+|5| [5-to_integer](./5-to_integer.js/) | Script that prints “My number: ” if the first argument can be converted to an integer. |
+|6| [6-multi_languages_loop](./6-multi_languages_loop.js/) | Script that prints 3 lines to the console in different languages using a loop. |
+|7| [7-multi_c](./7-multi_c.js/) | JavaScript script that prints x times “C is fun”. |
+|8| [8-square](./8-square.js/) | Script that prints a square using the `console.log()` function. |
+|9| [9-add](./9-add.js/) | Function that adds two numbers and returns the result. |
+|10| [10-factorial](./10-factorial.js/) | Function that computes and returns the factorial of a given number. |
+|11| [11-second_biggest](./11-second_biggest.js/) | Script that searches the second biggest integer in the list of arguments. |
+|12| [12-object](./12-object.js/) | Update an object with new attributes. |
 |13| [13-add.js](./13-add.js/) | Function that returns the addition of 2 integers. |
-|14| [100-let_me_const](./100-let_me_const/) | Modify the value of `myVar` to `333` by accessing the variable. |
-|15| [101-call_me_moby](./101-call_me_moby/) | Function definition that executes 4 times a function passed as an argument. |
-|16| [102-add_me_maybe](./102-add_me_maybe/) | Function that increments and calls another function. |
-|17| [103-object_fct](./103-object_fct/) | Update an object to add a new function. |
+|14| [100-let_me_const](./100-let_me_const.js/) | Modify the value of `myVar` to `333` by accessing the variable. |
+|15| [101-call_me_moby](./101-call_me_moby.js/) | Function definition that executes 4 times a function passed as an argument. |
+|16| [102-add_me_maybe](./102-add_me_maybe.js/) | Function that increments and calls another function. |
+|17| [103-object_fct](./103-object_fct.js/) | Update an object to add a new function. |
 
 ## Tasks
 
