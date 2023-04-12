@@ -8,7 +8,7 @@ The repository contains a total of 18 tasks to help you master JavaScript basics
 
 | **No.** | **Task** | **Description** |
 |---------|----------|-----------------|
-|0| [0-javascript_is_amazing](./0-javascript_is_amazing/) | Script that prints “JavaScript is amazing” to the console. |
+|0| [0-javascript_is_amazing](./0-javascript_is_amazing) | Script that prints “JavaScript is amazing” to the console. |
 |1| [1-multi_languages](./1-multi_languages/) | Script that prints 3 lines to the console in different languages. |
 |2| [2-arguments](./2-arguments/) | Script that prints a message depending on the number of arguments passed. |
 |3| [3-value_argument](./3-value_argument/) | Script that prints the first argument passed to it. |
