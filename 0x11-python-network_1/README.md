@@ -16,27 +16,6 @@
 - [Flask documentation](https://flask.palletsprojects.com/en/2.0.x/)
 
 
-## General
-
-- What a URL is
-- What HTTP is
-- How to read a URL
-- The scheme for a HTTP URL
-- What a domain name is
-- What a sub-domain is
-- How to define a port number in a URL
-- What a query string is
-- What an HTTP request is
-- What an HTTP response is
-- What HTTP headers are
-- What the HTTP message body is
-- What an HTTP request method is
-- What an HTTP response status code is
-- What an HTTP Cookie is
-- How to make a request with cURL
-- What happens when you type google.com in your browser (Application level)
-
-
 ## Introduction
 This repository contains a series of tasks that are aimed at teaching you how to use Python to handle web requests and process web data.
 
@@ -46,7 +25,7 @@ We will learn how to use the `urllib` module and the `requests` module to send H
 Here are the tasks included in this repository.
 
 ### [0. What's my status? #0](./0-hbtn_status.py)
-Write a Python script that fetches `https://intranet.hbtn.io/status`
+Write a Python script that fetches `https://alx-intranet.hbtn.io/status`
 
 ### [1. Response header value #0](./1-hbtn_header.py)
 Write a Python script that takes in a URL, sends a request to the URL and displays the value of the `X-Request-Id` variable found in the header of the response.
@@ -58,7 +37,7 @@ Write a Python script that takes in a URL and an email address, sends a `POST` r
 Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response. If the HTTP status code is greater than or equal to `400`, the script should print: `Error code:` followed by the value of the HTTP status code.
 
 ### [4. What's my status? #1](./4-hbtn_status.py)
-Write a Python script that fetches `https://intranet.hbtn.io/status`. Using the package `requests`.
+Write a Python script that fetches `https://alx-intranet.hbtn.io/status`. Using the package `requests`.
 
 ### [5. Response header value #1](./5-hbtn_header.py)
 Write a Python script that takes in a URL, sends a request to the URL and displays the value of the variable `X-Request-Id` in the response header, using the package `requests`.
@@ -83,11 +62,11 @@ To use any of the Python scripts in this repository, you must have Python 3 inst
 
 1. Clone this repository
 ```bash
-git clone https://github.com/<username>/holbertonschool-higher_level_programming.git
+git clone https://github.com/brainstorma/alx-higher_level_programming.git
 ```
 2. `cd` into the directory of the desired task
 ```bash
-cd holbertonschool-higher_level_programming/0x11-python-network_1
+cd alx-higher_level_programming/0x11-python-network_1
 ```
 3. Run the Python script with Python 3
 ```bash
@@ -145,7 +124,7 @@ Write a Python script that takes in a URL and an email, sends a `POST` request t
 Please test your script in the container provided, using the web server running on port 5000. The final response must be printed like this:
 
 ```
-    {"success": true, "email": "guillaume@holberton.io"}
+    {"success": true, "email": "guillaume@alx.io"}
 ```
 
 ### Task 4️⃣
