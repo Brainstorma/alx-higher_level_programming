@@ -15,6 +15,19 @@
 - [How to Use RESTful APIs with Django](https://www.twilio.com/blog/how-to-use-restful-apis-with-django)
 - [Flask documentation](https://flask.palletsprojects.com/en/2.0.x/)
 
+## Tasks
+
+1. [Task 0](./0-hbtn_status.py) - A Python script that fetches a URL using `requests` library.
+2. [Task 1](./1-hbtn_header.py) - A Python script that displays the value of a specific response header.
+3. [Task 2](./2-post_email.py) - A Python script that sends a POST request with email as a parameter.
+4. [Task 3](./3-error_code.py) - A Python script that manages error exceptions in HTTP responses.
+5. [Task 4](./4-hbtn_json.py) - A Python script that sends a request and parses the JSON response.
+6. [Task 5](./5-hbtn_response_header.py) - A Python script that sends a request and retrieves a specific response header value.
+7. [Task 6](./6-post_email_advanced.py) - An advanced version of Task 2, using the `requests` library.
+8. [Task 7](./7-error_code_advanced.py) - An advanced version of Task 3, using the `requests` library.
+9. [Task 8](./8-json_api.py) - A Python script that sends a POST request and searches for a given letter in a JSON API.
+10. [Task 9](./9-starwars.py) - A Python script that sends a search request to the Star Wars API.
+11. [Task 10](./10-my_github.py) - A Python script that sends a request to the GitHub API to find the user ID of a given username.
 
 ## Introduction
 This repository contains a series of tasks that are aimed at teaching you how to use Python to handle web requests and process web data.
